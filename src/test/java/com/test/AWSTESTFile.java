@@ -20,6 +20,7 @@ public class AWSTESTFile {
 	@Test
 	public void fileUpload() {
 		
+		System.out.println("-------> Starting Test");
 		System.out.println("-------> Running Test");
 		System.out.println("-------> Pass");
 		
